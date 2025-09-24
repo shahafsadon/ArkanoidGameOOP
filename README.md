@@ -1,3 +1,4 @@
+[![Play the Game](https://img.shields.io/badge/Play-Now-brightgreen?style=for-the-badge&logo=github)](https://shahafsadon.github.io/ArkanoidGameOOP/)
 # Arkanoid Game OOP 
 ## Project Overview
 This project is an advanced implementation of the classic **Arkanoid** game in **Java**, designed with **Object-Oriented Programming (OOP)** principles.  
